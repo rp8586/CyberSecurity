@@ -1,7 +1,8 @@
-### Steganography
+# Steganography
 The practice of concealing messages or information within other non-secret text or data.
 
-Resources: 
+
+### Resources: 
 https://docs.google.com/presentation/d/1YnmZ7amYpsB5qVLb_Tf3jN_SYlSTCcj3W5sHdFTf-V8/edit?usp=sharing
 
 #### Practice & Breif about these types: 

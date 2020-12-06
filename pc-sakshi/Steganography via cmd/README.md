@@ -12,6 +12,7 @@ https://docs.google.com/presentation/d/1YnmZ7amYpsB5qVLb_Tf3jN_SYlSTCcj3W5sHdFTf
 - Text Steganography
 
 ## Task
+- Make folder `YourName`
 - Upload Original File named as `OriginalImage1.extension` extension(.png,.jpg etc) 
 - Upload Steganographic File named as `StegImage1`
 - Upload Steps that you followed.

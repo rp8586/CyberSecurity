@@ -1,0 +1,6 @@
+step 1: in a folder, add an image (which will act as the image in which we are encoding the information)
+step 2: add the secret file to that folder (which is to be encoded)
+step 3: compress the secret file to zip form
+step 4: in CMD, change the directory to the folder that has the image file and the zip file
+step 5: in CMD, write the command -
+					copy /b <imagefilename> + <zipfilename> <newimagename>

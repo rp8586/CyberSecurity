@@ -1,0 +1,14 @@
+Step 1:
+create a new folder
+Step 2:
+add an image to this folder
+Step 3:
+add the text/image to be hidden in the previous image
+Step 4:
+compress the image to be hidden
+Step 5:
+open the command prompt
+Step 6:
+navigate to the folder in which you have saved the images
+Step 7:
+type this command: copy /b <imagename> + <zipfilename> <newimagename>

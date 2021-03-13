@@ -1,0 +1,7 @@
+1-download any image from google
+2-create a text file with secret message
+3-compress the text file using 7zip
+4-open command promt 
+5-type command=copy /b (origianl image with extension)+(text file name with txt extension) (name of new image in which your data in hidden)
+
+image will be created carrying hidden data.

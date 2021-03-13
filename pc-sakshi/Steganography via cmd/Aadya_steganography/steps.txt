@@ -1,0 +1,6 @@
+steps are as follows:
+1. make a folder and add image to it and form a text file of msg u want to hide
+2. right click on text select 7 zip and add to text.zip
+3. open cmd and direct it to our folder
+4.type dir to find all the files in it 
+5. type the command copy /b image.jpeg+text.zip image2.jpeg and the file will be copied with our hiddn msg
